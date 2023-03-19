@@ -1,4 +1,4 @@
-March 18, 2023 -TryHackMe Streak Day 28 (Rank 47449)
+##March 18, 2023 -TryHackMe Streak Day 28 (Rank 47449)
 Finished up the NMAP section this morning and read through some of the documentation and a few other write-ups about nmap. I know how important the tool is to almost every part of infosec so I figure learning more about it is important. It's like an F1 driver learning how engines work.
 
 There's also a meetup of the Atlanta DefCon group today so I'm going to go to that. First step into the 'real world' of it all. Wish me luck lol
@@ -6,16 +6,16 @@ There's also a meetup of the Atlanta DefCon group today so I'm going to go to th
 UPDATE: I didn't go to the meet up. Multiple reasons why not but I'll get to the next one. Finished the Nmap module and started the Metasploit module. Got to a good stopping point so I did. I can see how it's easy to become something of a hermit doing this stuff. Need to get outside the box and do something other than type
 
 
-March 17, 2023 - TryHackMe Streak Day 27 (Rank #48238)
+##March 17, 2023 - TryHackMe Streak Day 27 (Rank #48238)
 FRIDAY. ST PATRICK'S DAY
 The next section I was scheduled to take was Windows SYSMON. However that highly recommended completing two of the CTF's first and THOSE recommended completing the NMAP tutorial first. So I started the NMAP section. Thankfully I already know how nmap works and I understand a lot about TCP/UDP headers and operation thanks to the Cisco Cybersecurity Path course I finished so I'm cruising through the NMAP stuff pretty easily. And my rank on TryHackMe keeps climbing towards the top
 
 
-March 16, 2023 - TryHackMe Streak Day 26 (Rank #50260)
+## March 16, 2023 - TryHackMe Streak Day 26 (Rank #50260)
 Finished the Windows Event Logs learning room. Wow that's a lot of stuff. I feel a bit overwhelmed at time with the tsunami of STUFF but I the more I do and keep pushing on it the more I definitely understand. There's just so many tools and logs all created at different times by different people for different purposes it's difficult to keep it all straight in the beginning. I'll get there eventually. Rank #50260
 
 
-March 15, 2023 - TryHackMe Streak Day 25 (Rank #51533)
+## March 15, 2023 - TryHackMe Streak Day 25 (Rank #51533)
 Worked on the Windows Event Log rooms dealing with Event Viewr, wevtutil.exe and Get-WinEvent (Powershell cmdlet). I finished the Event Viewer and wevutil.exe sections and about half the Get-WinEvent section before I had to go to other chores (such as typing all this out). I'm at 51% on the SOC Level 1 path.
 
 Overall it feels easier than the Cisco training I did
