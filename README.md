@@ -1,1 +1,1 @@
-A gemeral blog plus lists of the stuff I use
+A general blog plus lists of the stuff I find useful for learning and working
